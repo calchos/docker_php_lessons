@@ -1,6 +1,6 @@
 <?php
 
-// 以下DB接続情報は非公開
+// 以下DB接続情報
 define('DB_DATABASE', 'docker_db');
 define('DB_USERNAME', 'calchos');
 define('DB_PASSWORD', 'caltan');
